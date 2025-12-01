@@ -24,7 +24,31 @@ particular focus on different market regimes (bull vs bear markets).
 - Portfolio construction: fixed-weight portfolios and optimized portfolios
   (Minimum Variance and Tangency)
 - Risk metrics: Sharpe Ratio, Sortino Ratio, CVaR (95%)
-- Bootstrap methods to test statistical significance of performance differences
+- Bootstrap methods to test statistical significance of performanc## Key Findings & Practical Insights
+
+## Key Findings & Practical Insights
+
+- **Regime-dependent diversification:** Bitcoin and Ethereum exhibit significantly lower
+  correlations with the S&P 500 during bull market regimes than during bear markets,
+  indicating that diversification benefits are regime-specific rather than constant.
+
+- **Improved risk-adjusted performance:** Small allocations (1–5%) to Bitcoin and/or
+  Ethereum consistently improve portfolio Sharpe and Sortino ratios during bull markets
+  compared to a pure S&P 500 portfolio.
+
+- **Differences in tail risk:** While both cryptocurrencies enhance returns, Bitcoin
+  provides more stable tail-risk characteristics (lower CVaR) than Ethereum at comparable
+  allocation levels.
+
+- **Dynamic portfolios outperform static ones:** Optimized portfolios (Minimum Variance
+  and Tangency) outperform fixed-weight strategies even after accounting for transaction
+  costs, with quarterly rebalancing offering a strong balance between performance and
+  turnover.
+
+These findings suggest that cryptocurrencies are **not safe havens during market stress**,
+but can act as **effective return-enhancing diversifiers in bullish market environments**
+when allocated strategically.
+
 
 ## Technologies
 
